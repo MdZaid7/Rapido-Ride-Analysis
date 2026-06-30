@@ -1,5 +1,5 @@
 # Rapido-Ride-Analysis
-# 🚖 Rapido Ride Analysis Dashboard
+# Rapido Ride Analysis Dashboard
 
 This is an end-to-end Data Analytics project built using **SQL** and **Power BI**.
 
@@ -7,7 +7,7 @@ In this project, I analyzed **20,000+ Rapido ride bookings** to understand booki
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - SQL
 - Microsoft Power BI
@@ -16,7 +16,7 @@ In this project, I analyzed **20,000+ Rapido ride bookings** to understand booki
 
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - Total Bookings
 - Total Booking Value
@@ -32,7 +32,7 @@ In this project, I analyzed **20,000+ Rapido ride bookings** to understand booki
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 ### SQL
 
@@ -52,7 +52,7 @@ In this project, I analyzed **20,000+ Rapido ride bookings** to understand booki
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Identified the busiest pickup locations.
 - Found areas with the highest driver cancellations.
@@ -62,28 +62,28 @@ In this project, I analyzed **20,000+ Rapido ride bookings** to understand booki
 
 ---
 
-## 📷 Dashboard
+## Dashboard
 
 ### Executive Dashboard
 
-*(Add Screenshot Here)*
+(https://github.com/MdZaid7/Rapido-Ride-Analysis/blob/main/Rapido%20Dashboard.png)
 
 ### Time Analysis Dashboard
 
-*(Add Screenshot Here)*
+(https://github.com/MdZaid7/Rapido-Ride-Analysis/blob/main/Rapido%20Time%20Analysis%20Dashboard.png)
 
 ---
 
-## 📁 Files Included
+## Files Included
 
-- Power BI Dashboard (.pbix)
+- Power BI Dashboard (.pbix & .pbit)
 - SQL Queries
 - Dataset
 - Dashboard Screenshots
 
 ---
 
-## 📚 Skills Practiced
+## Skills Practiced
 
 - SQL
 - Data Cleaning
